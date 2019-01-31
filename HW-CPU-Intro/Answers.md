@@ -1,5 +1,5 @@
 # Answers
-1. The CPU utilization should be 100%. There are two processes and each of them will take 100% CPU usage. They are executed in other and there is no time gap between these two processes.
+1. The CPU utilization should be 100%. There are two processes and each of them will take 100% CPU usage. They are executed in order and there is no time gap between these two processes.
 ```
 Time     PID: 0     PID: 1        CPU        IOs 
   1     RUN:cpu      READY          1            
